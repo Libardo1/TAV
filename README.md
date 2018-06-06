@@ -11,3 +11,7 @@
   * 1 - Raspberry Pi Camera Board v2 - 8 Megapixels
   
   * 2 - Any Motor **(I used 50:1 Micro Metal Gearmotor HP 6V)**
+
+
+Build a Robot with AI by @Akil Hylton El on [YouTube](https://www.youtube.com/playlist?list=PLrqpvtI3nyvNbxPiuvQzv1tTOLKSDZ75_)
+ 
