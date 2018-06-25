@@ -14,6 +14,8 @@
   
   * 1 - PowerBoost 500 Basic 
 
+  * 1 - Heat Sink - 14 x 14
+
 
 Build a Robot with AI by @Akil Hylton El on [YouTube](https://www.youtube.com/playlist?list=PLrqpvtI3nyvNbxPiuvQzv1tTOLKSDZ75_)
  
