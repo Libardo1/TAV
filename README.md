@@ -16,6 +16,10 @@
 
   * 1 - Heat Sink - 14 x 14
 
+  * 1 - Adafruit Unassembled Mini Pan-Tilt 
 
+  * 2 - Micro Servo 
+  
+  
 Build a Robot with AI by @Akil Hylton El on [YouTube](https://www.youtube.com/playlist?list=PLrqpvtI3nyvNbxPiuvQzv1tTOLKSDZ75_)
  
