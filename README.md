@@ -12,7 +12,7 @@
   
   * 2 - Any Motor **(I used 50:1 Micro Metal Gearmotor HP 6V)**
   
-  * 1 - PowerBoost 500 Basic 
+  * 1 - PiJuice Hat 
 
   * 1 - Heat Sink - 14 x 14
 
